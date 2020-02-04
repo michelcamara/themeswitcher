@@ -2,6 +2,4 @@
 2- Dependencia desenvolvedor: yarn add @types/styled-components -D
 3- Dependencia: yarn add styled-components
                          react-switch
-
-https://www.youtube.com/watch?v=ngVU74daJ8Y
-aula pausado em: 17:45
+                         polished
